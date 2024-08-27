@@ -1,0 +1,49 @@
+*{
+    margin: 56px;
+}
+.capa1
+{
+    background-color: red;
+    padding: 10px;
+    border: 1px;
+    border-radius: 10px;
+    
+}
+.capa2
+{
+    background-color: yellow;
+    padding: 20px;
+    border: 1px;
+    border-radius: 1000px ;
+
+}
+.capa3{
+    background-color:lime;
+    padding: 20px;
+    border: 1px;
+    border-radius:  1000px;
+}
+.capa4{
+    background-color: blue;
+    padding: 20px;
+    border: 1px;
+    border-radius:  1000px;
+}
+.capa5{
+    background-color: coral;
+    padding: 20px;
+    border: 1px;
+    border-radius: 1000px;
+}
+.capa6{
+    background-color: cyan;
+    padding: 20px;
+    border: 1px;
+    border-radius:  1000px;
+}
+.capa7{
+    background-color:gray;
+    padding: 20px;
+    border: 1px;
+    border-radius:  1000px;
+}
